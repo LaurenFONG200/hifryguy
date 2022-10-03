@@ -8,7 +8,7 @@ from the Fong fries
 - curly fries from Arby's
 - waffle fries from Chick-fil-A
 # regular potato fries from McDonald's
-image
+![This is an image](https://www.columbusonthecheap.com/lotc-cms/wp-content/uploads/2020/05/mcdonalds-fries.jpg)
 - 10/10: "I don't care, I just like them because they're salty." -Papa Fong
 - 8/10: "I like them because they change the oil. They put way too much salt but they are not burnt. They're super good because you can really taste the frozen potato." -Momma Fong
 - [nutrition facts in regular fries from McDonald's](https://fastfoodnutrition.org/mcdonalds/french-fries/medium)
