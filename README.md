@@ -1,6 +1,7 @@
 # HI FRY GUY
 fries for yo momma  
 - different types of fries were rated with an analysis of reasons  
+
 from the Fong fries
 - Papa Fong: Victor, Momma Fong: Christine, Baby Fong: Katelyn 
 ## types of fries
