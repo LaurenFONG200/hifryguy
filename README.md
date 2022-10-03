@@ -13,7 +13,7 @@ from the Fong fries
 - 8/10: "I like them because they change the oil. They put way too much salt but they are not burnt. They're super good because you can really taste the frozen potato." -Momma Fong
 - [nutrition facts in regular fries from McDonald's](https://fastfoodnutrition.org/mcdonalds/french-fries/medium)
 # sweet potato fries from Habit
-![This is an image](https://www.habitburger.com/dbcwp/wp-content/uploads/2010/12/sweet-potato.jpg)
+![This is an image](http://3.bp.blogspot.com/-E7Oq8Qa2M0o/U-MeDImOu-I/AAAAAAAACC0/fLg_dMWYSTI/s1600/IMG_0668.JPG)
 - 5/10: "They're not that good. Doesn't do it for me." -Momma Fong
 - 6/10: "They're not the best fries because they're not crunchy and they get soggy fast. You pay a lot of money for like 15 fries." -Baby Fong
 - [nutrition facts in sweet potato fries from Habit](https://fastfoodnutrition.org/habit/sweet-potato-fries)
