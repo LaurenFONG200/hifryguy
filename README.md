@@ -7,7 +7,10 @@ from the potato king
 - curly fries from Arby's
 - waffle fries from Chick-fil-A
 # regular potato fries from McDonald's
-[nutrition facts in McDonald's fries](https://fastfoodnutrition.org/mcdonalds/french-fries/medium)
+[nutrition facts in regular fries from McDonald's](https://fastfoodnutrition.org/mcdonalds/french-fries/medium)
 # sweet potato fries from Habit
+[nutrition facts in sweet potato fries from Habit](https://fastfoodnutrition.org/habit/sweet-potato-fries)
 # curly fries from Arby's
+[nutrition facts in sweet potato fries from Arby's](https://fastfoodnutrition.org/arbys/curly-fries/medium)
 # waffle fries from Chick-fil-A
+[nutrition facts in waffle fries from Chick-fil-A](https://fastfoodnutrition.org/chick-fil-a/waffle-fries-small/medium)
