@@ -45,4 +45,4 @@ PLEASEEEEEEEEEEEEEEEEEEEEEEEE
 ...  
 ![This is an image](https://cdn.shopify.com/s/files/1/0363/5842/2663/products/WhatsAppImage2021-05-04at11.45.27PM_4_530x@2x.jpg?v=1620197279)  
 # TASTE TEA CAFE !!
-- 10/10: "Seasoned just enough but not in an unhealthy way, these fries available in both waffle and curly can knock your socks off!" -Momma Fong
+- 10/10: "Seasoned just enough but not in an unhealthy way, these fries available in both waffle and curly can knock your socks off! They're crunchy enough on the outsie but not burnt and still soft on the inside. These are the best fries ever!" -Momma Fong
